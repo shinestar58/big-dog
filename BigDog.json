@@ -1,0 +1,15 @@
+{
+  "id": "BigDog", 
+  "pck_name": "BigDog.pck",         
+  "name": "大狗...叫！！！!",
+  "author": "洛瑞娅",
+  "description": "运筹帷幄，来打出宇宙最爽的一次叫吧!",
+  "version": "0.0.0",
+  "min_game_version": "0.109.0", 
+  "has_pck": true,    
+  "has_dll": true,        
+  "dependencies": [
+	{ "id": "STS2-RitsuLib", "min_version": "0.4.58" }
+  ],  
+  "affects_gameplay": "False"
+}
